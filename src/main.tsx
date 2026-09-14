@@ -113,7 +113,7 @@ function renderMarkdown(source: string) {
 
 function splitSlides(source: string) {
   return source
-    .split(/\n\s*---\s*\n/g)
+    .split(/(?=^#\s+Slide\s+\d+)/gim)
     .map((item) => item.trim())
     .filter((item) => /^#\s+Slide\s+\d+/im.test(item));
 }
@@ -127,7 +127,7 @@ function slideTitle(section: string, fallback: number) {
   return (
     section
       .match(/^#\s+(.+)$/m)?.[1]
-      ?.replace(/^slide\s+\d+\s*[-–—:]\s*/i, "")
+      ?.replace(/^slide\s+\d+\s*(?:[-:\u2013\u2014]+\s*)?/i, "")
       .trim() || `Slide ${String(fallback).padStart(3, "0")}`
   );
 }
@@ -390,7 +390,7 @@ function MeetingPage({
                       Keseluruhan
                     </button>
                   </div>
-                  <span className="slide-counter">Slide {String(currentNumber).padStart(2, "0")} / {Math.max(0, sections.length - 1)}</span>
+                  <span className="slide-counter">Slide {String(currentNumber).padStart(2, "0")} / {sections.length}</span>
                 </div>
                 <article
                   className="markdown"
@@ -405,7 +405,7 @@ function MeetingPage({
             {slideTab !== "image" && (
               <div className="reader-nav">
                 <button disabled={slideIndex === 0} onClick={() => setSlideIndex(slideIndex - 1)}>{icon("arrow_back")} Sebelumnya</button>
-                <span>Slide {String(currentNumber).padStart(2, "0")} / {Math.max(0, sections.length - 1)}</span>
+                <span>Slide {String(currentNumber).padStart(2, "0")} / {sections.length}</span>
                 <button disabled={slideIndex >= sections.length - 1} onClick={() => setSlideIndex(slideIndex + 1)}>Berikutnya {icon("arrow_forward")}</button>
               </div>
             )}
@@ -467,7 +467,7 @@ function ImageSlideView({
   return (
     <section ref={viewerRef} className={`image-viewer ${fullscreen ? "fullscreen" : ""}`}>
       <div className="image-toolbar">
-        <span>Slide {String(slideNumber).padStart(2, "0")} / {String(maxIndex).padStart(2, "0")}</span>
+        <span>Slide {String(slideNumber).padStart(2, "0")} / {String(total).padStart(2, "0")}</span>
         {fullscreen ? (
           <button onClick={exitFullscreen}>{icon("fullscreen_exit")} Exit</button>
         ) : (

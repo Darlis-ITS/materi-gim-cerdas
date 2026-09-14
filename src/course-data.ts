@@ -7,7 +7,7 @@ export const courseData = {
   "description": "Materi pembelajaran Game Cerdas berbasis Markdown untuk authoring slide visual dan narasi AI.",
   "heroTitle": "Game Cerdas",
   "sourceOfferingId": 1,
-  "generatedAt": "2026-08-31T22:16:28.018Z",
+  "generatedAt": "2026-09-14T22:05:04.193Z",
   "rps": {
     "title": "RPS Game Cerdas",
     "path": "rps/rps.md"
@@ -1824,7 +1824,9 @@ export const courseData = {
       "subtitle": "",
       "slidePath": "slide/pert06.md",
       "narrationPath": "slide/narasi/pert06.md",
-      "practicumPaths": [],
+      "practicumPaths": [
+        "praktikum/modul-praktikum-06-npc-behavior-tree-utility-based-decision-ai.md"
+      ],
       "images": [
         {
           "slideNumber": 1,
@@ -2198,7 +2200,9 @@ export const courseData = {
       "subtitle": "",
       "slidePath": "slide/pert07.md",
       "narrationPath": "slide/narasi/pert07.md",
-      "practicumPaths": [],
+      "practicumPaths": [
+        "praktikum/modul-praktikum-07-squad-tactical-enemy-ai.md"
+      ],
       "images": [
         {
           "slideNumber": 1,
@@ -2569,7 +2573,9 @@ export const courseData = {
       "subtitle": "",
       "slidePath": "slide/pert09.md",
       "narrationPath": "slide/narasi/pert09.md",
-      "practicumPaths": [],
+      "practicumPaths": [
+        "praktikum/modul-praktikum-09-procedural-content-generation-seeded-validated-procedural-spawning.md"
+      ],
       "images": [
         {
           "slideNumber": 1,
@@ -2891,7 +2897,9 @@ export const courseData = {
       "subtitle": "",
       "slidePath": "slide/pert10.md",
       "narrationPath": "slide/narasi/pert10.md",
-      "practicumPaths": [],
+      "practicumPaths": [
+        "praktikum/modul-praktikum-10-procedural-dungeon-generation-dengan-bsp-di-unity-6.md"
+      ],
       "images": [
         {
           "slideNumber": 1,
@@ -3233,7 +3241,9 @@ export const courseData = {
       "subtitle": "",
       "slidePath": "slide/pert11.md",
       "narrationPath": "slide/narasi/pert11.md",
-      "practicumPaths": [],
+      "practicumPaths": [
+        "praktikum/modul-praktikum-11-dynamic-difficulty-adjustment-dda-di-unity-6.md"
+      ],
       "images": [
         {
           "slideNumber": 1,
@@ -3575,7 +3585,9 @@ export const courseData = {
       "subtitle": "",
       "slidePath": "slide/pert12.md",
       "narrationPath": "slide/narasi/pert12.md",
-      "practicumPaths": [],
+      "practicumPaths": [
+        "praktikum/modul-praktikum-12-gameplay-metrics-player-modeling-adaptive-game-ai-di-unity-6.md"
+      ],
       "images": [
         {
           "slideNumber": 1,
@@ -3941,7 +3953,9 @@ export const courseData = {
       "subtitle": "",
       "slidePath": "slide/pert13.md",
       "narrationPath": "slide/narasi/pert13.md",
-      "practicumPaths": [],
+      "practicumPaths": [
+        "praktikum/modul-praktikum-13-machine-learning-for-games-q-learning-grid-agent-di-unity-6-1.md"
+      ],
       "images": [
         {
           "slideNumber": 1,
@@ -4291,7 +4305,9 @@ export const courseData = {
       "subtitle": "",
       "slidePath": "slide/pert14.md",
       "narrationPath": "slide/narasi/pert14.md",
-      "practicumPaths": [],
+      "practicumPaths": [
+        "praktikum/modul-praktikum-14-reinforcement-learning-dengan-unity-ml-agents.md"
+      ],
       "images": [
         {
           "slideNumber": 1,
@@ -4657,7 +4673,9 @@ export const courseData = {
       "subtitle": "",
       "slidePath": "slide/pert15.md",
       "narrationPath": "slide/narasi/pert15.md",
-      "practicumPaths": [],
+      "practicumPaths": [
+        "praktikum/modul-praktikum-15-advanced-game-ai-final-project-integration.md"
+      ],
       "images": [
         {
           "slideNumber": 1,
