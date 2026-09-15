@@ -7,7 +7,7 @@ export const courseData = {
   "description": "Materi pembelajaran Game Cerdas berbasis Markdown untuk authoring slide visual dan narasi AI.",
   "heroTitle": "Game Cerdas",
   "sourceOfferingId": 1,
-  "generatedAt": "2026-09-14T22:05:04.193Z",
+  "generatedAt": "2026-09-15T07:07:12.128Z",
   "rps": {
     "title": "RPS Game Cerdas",
     "path": "rps/rps.md"
@@ -22,10 +22,20 @@ export const courseData = {
       "narrationPath": "slide/narasi/pert00.md",
       "practicumPaths": [
         "praktikum/modul-praktikum-05-finite-state-machine-enemy-ai-patrol-chase-attack-flee.md",
+        "praktikum/modul-praktikum-06-npc-behavior-tree-utility-based-decision-ai.md",
+        "praktikum/modul-praktikum-07-squad-tactical-enemy-ai.md",
+        "praktikum/modul-praktikum-09-procedural-content-generation-seeded-validated-procedural-spawning.md",
         "praktikum/modul-praktikum-1-npc-detector.md",
+        "praktikum/modul-praktikum-10-procedural-dungeon-generation-dengan-bsp-di-unity-6.md",
+        "praktikum/modul-praktikum-11-dynamic-difficulty-adjustment-dda-di-unity-6.md",
+        "praktikum/modul-praktikum-12-gameplay-metrics-player-modeling-adaptive-game-ai-di-unity-6.md",
+        "praktikum/modul-praktikum-13-machine-learning-for-games-q-learning-grid-agent-di-unity-6-1.md",
+        "praktikum/modul-praktikum-14-reinforcement-learning-dengan-unity-ml-agents.md",
+        "praktikum/modul-praktikum-15-advanced-game-ai-final-project-integration.md",
         "praktikum/modul-praktikum-2-npc-guard-sensor-memory-decision.md",
         "praktikum/modul-praktikum-3-autonomous-steering-agent.md",
-        "praktikum/modul-praktikum-4-game-cerdas-pathfinding-navigation.md"
+        "praktikum/modul-praktikum-4-game-cerdas-pathfinding-navigation.md",
+        "praktikum/uts-game-cerdas-intelligent-game-mini-project-6-topik.md"
       ],
       "images": [
         {
@@ -2560,10 +2570,93 @@ export const courseData = {
       "subtitle": "",
       "slidePath": "slide/pert08.md",
       "narrationPath": "slide/narasi/pert08.md",
-      "practicumPaths": [],
-      "images": [],
-      "slideCount": 0,
-      "imageCount": 0,
+      "practicumPaths": [
+        "praktikum/uts-game-cerdas-intelligent-game-mini-project-6-topik.md"
+      ],
+      "images": [
+        {
+          "slideNumber": 0,
+          "path": "slide/slide-image/pert08/slide-000-v001.webp"
+        },
+        {
+          "slideNumber": 1,
+          "path": "slide/slide-image/pert08/slide-001-v001.webp"
+        },
+        {
+          "slideNumber": 2,
+          "path": "slide/slide-image/pert08/slide-002-v001.webp"
+        },
+        {
+          "slideNumber": 3,
+          "path": "slide/slide-image/pert08/slide-003-v001.webp"
+        },
+        {
+          "slideNumber": 4,
+          "path": "slide/slide-image/pert08/slide-004-v001.webp"
+        },
+        {
+          "slideNumber": 5,
+          "path": "slide/slide-image/pert08/slide-005-v001.webp"
+        },
+        {
+          "slideNumber": 6,
+          "path": "slide/slide-image/pert08/slide-006-v001.webp"
+        },
+        {
+          "slideNumber": 7,
+          "path": "slide/slide-image/pert08/slide-007-v001.webp"
+        },
+        {
+          "slideNumber": 8,
+          "path": "slide/slide-image/pert08/slide-008-v001.webp"
+        },
+        {
+          "slideNumber": 9,
+          "path": "slide/slide-image/pert08/slide-009-v001.webp"
+        },
+        {
+          "slideNumber": 10,
+          "path": "slide/slide-image/pert08/slide-010-v001.webp"
+        },
+        {
+          "slideNumber": 11,
+          "path": "slide/slide-image/pert08/slide-011-v001.webp"
+        },
+        {
+          "slideNumber": 12,
+          "path": "slide/slide-image/pert08/slide-012-v001.webp"
+        },
+        {
+          "slideNumber": 13,
+          "path": "slide/slide-image/pert08/slide-013-v001.webp"
+        },
+        {
+          "slideNumber": 14,
+          "path": "slide/slide-image/pert08/slide-014-v001.webp"
+        },
+        {
+          "slideNumber": 15,
+          "path": "slide/slide-image/pert08/slide-015-v001.webp"
+        },
+        {
+          "slideNumber": 16,
+          "path": "slide/slide-image/pert08/slide-016-v001.webp"
+        },
+        {
+          "slideNumber": 17,
+          "path": "slide/slide-image/pert08/slide-017-v001.webp"
+        },
+        {
+          "slideNumber": 18,
+          "path": "slide/slide-image/pert08/slide-018-v001.webp"
+        },
+        {
+          "slideNumber": 19,
+          "path": "slide/slide-image/pert08/slide-019-v001.webp"
+        }
+      ],
+      "slideCount": 20,
+      "imageCount": 20,
       "narrationCount": 0
     },
     {
