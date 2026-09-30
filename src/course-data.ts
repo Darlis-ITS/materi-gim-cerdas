@@ -7,7 +7,7 @@ export const courseData = {
   "description": "Materi pembelajaran Game Cerdas berbasis Markdown untuk authoring slide visual dan narasi AI.",
   "heroTitle": "Game Cerdas",
   "sourceOfferingId": 1,
-  "generatedAt": "2026-09-30T13:18:06.498Z",
+  "generatedAt": "2026-09-30T13:42:22.757Z",
   "rps": {
     "title": "RPS Game Cerdas",
     "path": "rps/rps.md"
