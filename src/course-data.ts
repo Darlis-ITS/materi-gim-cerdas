@@ -7,7 +7,7 @@ export const courseData = {
   "description": "Materi pembelajaran Game Cerdas berbasis Markdown untuk authoring slide visual dan narasi AI.",
   "heroTitle": "Game Cerdas",
   "sourceOfferingId": 1,
-  "generatedAt": "2026-09-15T07:07:12.128Z",
+  "generatedAt": "2026-09-30T13:18:06.498Z",
   "rps": {
     "title": "RPS Game Cerdas",
     "path": "rps/rps.md"
@@ -1627,6 +1627,126 @@ export const courseData = {
       ],
       "images": [
         {
+          "slideNumber": 1,
+          "path": "slide/slide-image/pert05/slide-001-v001.webp"
+        },
+        {
+          "slideNumber": 2,
+          "path": "slide/slide-image/pert05/slide-002-v001.webp"
+        },
+        {
+          "slideNumber": 3,
+          "path": "slide/slide-image/pert05/slide-003-v001.webp"
+        },
+        {
+          "slideNumber": 4,
+          "path": "slide/slide-image/pert05/slide-004-v001.webp"
+        },
+        {
+          "slideNumber": 5,
+          "path": "slide/slide-image/pert05/slide-005-v001.webp"
+        },
+        {
+          "slideNumber": 6,
+          "path": "slide/slide-image/pert05/slide-006-v001.webp"
+        },
+        {
+          "slideNumber": 7,
+          "path": "slide/slide-image/pert05/slide-007-v001.webp"
+        },
+        {
+          "slideNumber": 8,
+          "path": "slide/slide-image/pert05/slide-008-v001.webp"
+        },
+        {
+          "slideNumber": 9,
+          "path": "slide/slide-image/pert05/slide-009-v001.webp"
+        },
+        {
+          "slideNumber": 10,
+          "path": "slide/slide-image/pert05/slide-010-v001.webp"
+        },
+        {
+          "slideNumber": 11,
+          "path": "slide/slide-image/pert05/slide-011-v001.webp"
+        },
+        {
+          "slideNumber": 12,
+          "path": "slide/slide-image/pert05/slide-012-v001.webp"
+        },
+        {
+          "slideNumber": 13,
+          "path": "slide/slide-image/pert05/slide-013-v001.webp"
+        },
+        {
+          "slideNumber": 14,
+          "path": "slide/slide-image/pert05/slide-014-v001.webp"
+        },
+        {
+          "slideNumber": 15,
+          "path": "slide/slide-image/pert05/slide-015-v001.webp"
+        },
+        {
+          "slideNumber": 16,
+          "path": "slide/slide-image/pert05/slide-016-v001.webp"
+        },
+        {
+          "slideNumber": 17,
+          "path": "slide/slide-image/pert05/slide-017-v001.webp"
+        },
+        {
+          "slideNumber": 18,
+          "path": "slide/slide-image/pert05/slide-018-v001.webp"
+        },
+        {
+          "slideNumber": 19,
+          "path": "slide/slide-image/pert05/slide-019-v001.webp"
+        },
+        {
+          "slideNumber": 20,
+          "path": "slide/slide-image/pert05/slide-020-v001.webp"
+        },
+        {
+          "slideNumber": 21,
+          "path": "slide/slide-image/pert05/slide-021-v001.webp"
+        },
+        {
+          "slideNumber": 22,
+          "path": "slide/slide-image/pert05/slide-022-v001.webp"
+        },
+        {
+          "slideNumber": 23,
+          "path": "slide/slide-image/pert05/slide-023-v001.webp"
+        },
+        {
+          "slideNumber": 24,
+          "path": "slide/slide-image/pert05/slide-024-v001.webp"
+        },
+        {
+          "slideNumber": 25,
+          "path": "slide/slide-image/pert05/slide-025-v001.webp"
+        },
+        {
+          "slideNumber": 26,
+          "path": "slide/slide-image/pert05/slide-026-v001.webp"
+        },
+        {
+          "slideNumber": 27,
+          "path": "slide/slide-image/pert05/slide-027-v001.webp"
+        },
+        {
+          "slideNumber": 28,
+          "path": "slide/slide-image/pert05/slide-028-v001.webp"
+        },
+        {
+          "slideNumber": 29,
+          "path": "slide/slide-image/pert05/slide-029-v001.webp"
+        },
+        {
+          "slideNumber": 30,
+          "path": "slide/slide-image/pert05/slide-030-v001.webp"
+        },
+        {
           "slideNumber": 31,
           "path": "slide/slide-image/pert05/slide-031-v001.webp"
         },
@@ -1824,7 +1944,7 @@ export const courseData = {
         }
       ],
       "slideCount": 79,
-      "imageCount": 49,
+      "imageCount": 79,
       "narrationCount": 79
     },
     {
