@@ -7,7 +7,7 @@ export const courseData = {
   "description": "Materi pembelajaran Game Cerdas berbasis Markdown untuk authoring slide visual dan narasi AI.",
   "heroTitle": "Game Cerdas",
   "sourceOfferingId": 1,
-  "generatedAt": "2026-10-13T05:23:19.540Z",
+  "generatedAt": "2026-11-11T22:51:51.561Z",
   "rps": {
     "title": "RPS Game Cerdas",
     "path": "rps/rps.md"
@@ -3128,323 +3128,517 @@ export const courseData = {
       "narrationCount": 0
     },
     {
-      "id": "pert09",
+      "id": "pert09-meeting-238",
       "number": 9,
       "title": "Procedural Content Generation",
       "subtitle": "",
-      "slidePath": "slide/pert09.md",
-      "narrationPath": "slide/narasi/pert09.md",
+      "slidePath": "slide/pert09-meeting-238.md",
+      "narrationPath": "slide/narasi/pert09-meeting-238.md",
+      "practicumPaths": [],
+      "images": [
+        {
+          "slideNumber": 1,
+          "path": "slide/slide-image/pert09-meeting-238/slide-001-v001.webp"
+        },
+        {
+          "slideNumber": 2,
+          "path": "slide/slide-image/pert09-meeting-238/slide-002-v001.webp"
+        },
+        {
+          "slideNumber": 3,
+          "path": "slide/slide-image/pert09-meeting-238/slide-003-v001.webp"
+        },
+        {
+          "slideNumber": 4,
+          "path": "slide/slide-image/pert09-meeting-238/slide-004-v001.webp"
+        },
+        {
+          "slideNumber": 5,
+          "path": "slide/slide-image/pert09-meeting-238/slide-005-v001.webp"
+        },
+        {
+          "slideNumber": 6,
+          "path": "slide/slide-image/pert09-meeting-238/slide-006-v001.webp"
+        },
+        {
+          "slideNumber": 7,
+          "path": "slide/slide-image/pert09-meeting-238/slide-007-v001.webp"
+        },
+        {
+          "slideNumber": 8,
+          "path": "slide/slide-image/pert09-meeting-238/slide-008-v001.webp"
+        },
+        {
+          "slideNumber": 9,
+          "path": "slide/slide-image/pert09-meeting-238/slide-009-v001.webp"
+        },
+        {
+          "slideNumber": 10,
+          "path": "slide/slide-image/pert09-meeting-238/slide-010-v001.webp"
+        },
+        {
+          "slideNumber": 11,
+          "path": "slide/slide-image/pert09-meeting-238/slide-011-v001.webp"
+        },
+        {
+          "slideNumber": 12,
+          "path": "slide/slide-image/pert09-meeting-238/slide-012-v001.webp"
+        },
+        {
+          "slideNumber": 13,
+          "path": "slide/slide-image/pert09-meeting-238/slide-013-v001.webp"
+        },
+        {
+          "slideNumber": 14,
+          "path": "slide/slide-image/pert09-meeting-238/slide-014-v001.webp"
+        },
+        {
+          "slideNumber": 15,
+          "path": "slide/slide-image/pert09-meeting-238/slide-015-v001.webp"
+        },
+        {
+          "slideNumber": 16,
+          "path": "slide/slide-image/pert09-meeting-238/slide-016-v001.webp"
+        },
+        {
+          "slideNumber": 17,
+          "path": "slide/slide-image/pert09-meeting-238/slide-017-v001.webp"
+        },
+        {
+          "slideNumber": 18,
+          "path": "slide/slide-image/pert09-meeting-238/slide-018-v001.webp"
+        },
+        {
+          "slideNumber": 19,
+          "path": "slide/slide-image/pert09-meeting-238/slide-019-v001.webp"
+        },
+        {
+          "slideNumber": 20,
+          "path": "slide/slide-image/pert09-meeting-238/slide-020-v001.webp"
+        },
+        {
+          "slideNumber": 21,
+          "path": "slide/slide-image/pert09-meeting-238/slide-021-v001.webp"
+        },
+        {
+          "slideNumber": 22,
+          "path": "slide/slide-image/pert09-meeting-238/slide-022-v001.webp"
+        },
+        {
+          "slideNumber": 23,
+          "path": "slide/slide-image/pert09-meeting-238/slide-023-v001.webp"
+        },
+        {
+          "slideNumber": 24,
+          "path": "slide/slide-image/pert09-meeting-238/slide-024-v001.webp"
+        },
+        {
+          "slideNumber": 25,
+          "path": "slide/slide-image/pert09-meeting-238/slide-025-v001.webp"
+        },
+        {
+          "slideNumber": 26,
+          "path": "slide/slide-image/pert09-meeting-238/slide-026-v001.webp"
+        },
+        {
+          "slideNumber": 27,
+          "path": "slide/slide-image/pert09-meeting-238/slide-027-v001.webp"
+        },
+        {
+          "slideNumber": 28,
+          "path": "slide/slide-image/pert09-meeting-238/slide-028-v001.webp"
+        },
+        {
+          "slideNumber": 29,
+          "path": "slide/slide-image/pert09-meeting-238/slide-029-v001.webp"
+        },
+        {
+          "slideNumber": 30,
+          "path": "slide/slide-image/pert09-meeting-238/slide-030-v001.webp"
+        },
+        {
+          "slideNumber": 31,
+          "path": "slide/slide-image/pert09-meeting-238/slide-031-v001.webp"
+        },
+        {
+          "slideNumber": 32,
+          "path": "slide/slide-image/pert09-meeting-238/slide-032-v001.webp"
+        },
+        {
+          "slideNumber": 33,
+          "path": "slide/slide-image/pert09-meeting-238/slide-033-v001.webp"
+        },
+        {
+          "slideNumber": 34,
+          "path": "slide/slide-image/pert09-meeting-238/slide-034-v001.webp"
+        },
+        {
+          "slideNumber": 35,
+          "path": "slide/slide-image/pert09-meeting-238/slide-035-v001.webp"
+        },
+        {
+          "slideNumber": 36,
+          "path": "slide/slide-image/pert09-meeting-238/slide-036-v001.webp"
+        },
+        {
+          "slideNumber": 37,
+          "path": "slide/slide-image/pert09-meeting-238/slide-037-v001.webp"
+        },
+        {
+          "slideNumber": 38,
+          "path": "slide/slide-image/pert09-meeting-238/slide-038-v001.webp"
+        },
+        {
+          "slideNumber": 39,
+          "path": "slide/slide-image/pert09-meeting-238/slide-039-v001.webp"
+        },
+        {
+          "slideNumber": 40,
+          "path": "slide/slide-image/pert09-meeting-238/slide-040-v001.webp"
+        },
+        {
+          "slideNumber": 41,
+          "path": "slide/slide-image/pert09-meeting-238/slide-041-v001.webp"
+        },
+        {
+          "slideNumber": 42,
+          "path": "slide/slide-image/pert09-meeting-238/slide-042-v001.webp"
+        },
+        {
+          "slideNumber": 43,
+          "path": "slide/slide-image/pert09-meeting-238/slide-043-v001.webp"
+        },
+        {
+          "slideNumber": 44,
+          "path": "slide/slide-image/pert09-meeting-238/slide-044-v001.webp"
+        },
+        {
+          "slideNumber": 45,
+          "path": "slide/slide-image/pert09-meeting-238/slide-045-v001.webp"
+        }
+      ],
+      "slideCount": 45,
+      "imageCount": 45,
+      "narrationCount": 0
+    },
+    {
+      "id": "pert09-meeting-10",
+      "number": 9,
+      "title": "Procedural Content Generation",
+      "subtitle": "",
+      "slidePath": "slide/pert09-meeting-10.md",
+      "narrationPath": "slide/narasi/pert09-meeting-10.md",
       "practicumPaths": [
-        "praktikum/modul-praktikum-09-procedural-content-generation-seeded-validated-procedural-spawning.md"
+        "praktikum/pert09-meeting-10/modul-praktikum-09-procedural-content-generation-seeded-validated-procedural-spawning.md"
       ],
       "images": [
         {
           "slideNumber": 1,
-          "path": "slide/slide-image/pert09/slide-001-v001.webp"
+          "path": "slide/slide-image/pert09-meeting-10/slide-001-v001.webp"
         },
         {
           "slideNumber": 2,
-          "path": "slide/slide-image/pert09/slide-002-v001.webp"
+          "path": "slide/slide-image/pert09-meeting-10/slide-002-v001.webp"
         },
         {
           "slideNumber": 3,
-          "path": "slide/slide-image/pert09/slide-003-v001.webp"
+          "path": "slide/slide-image/pert09-meeting-10/slide-003-v001.webp"
         },
         {
           "slideNumber": 4,
-          "path": "slide/slide-image/pert09/slide-004-v001.webp"
+          "path": "slide/slide-image/pert09-meeting-10/slide-004-v001.webp"
         },
         {
           "slideNumber": 5,
-          "path": "slide/slide-image/pert09/slide-005-v001.webp"
+          "path": "slide/slide-image/pert09-meeting-10/slide-005-v001.webp"
         },
         {
           "slideNumber": 6,
-          "path": "slide/slide-image/pert09/slide-006-v001.webp"
+          "path": "slide/slide-image/pert09-meeting-10/slide-006-v001.webp"
         },
         {
           "slideNumber": 7,
-          "path": "slide/slide-image/pert09/slide-007-v001.webp"
+          "path": "slide/slide-image/pert09-meeting-10/slide-007-v001.webp"
         },
         {
           "slideNumber": 8,
-          "path": "slide/slide-image/pert09/slide-008-v001.webp"
+          "path": "slide/slide-image/pert09-meeting-10/slide-008-v001.webp"
         },
         {
           "slideNumber": 9,
-          "path": "slide/slide-image/pert09/slide-009-v001.webp"
+          "path": "slide/slide-image/pert09-meeting-10/slide-009-v001.webp"
         },
         {
           "slideNumber": 10,
-          "path": "slide/slide-image/pert09/slide-010-v001.webp"
+          "path": "slide/slide-image/pert09-meeting-10/slide-010-v001.webp"
         },
         {
           "slideNumber": 11,
-          "path": "slide/slide-image/pert09/slide-011-v001.webp"
+          "path": "slide/slide-image/pert09-meeting-10/slide-011-v001.webp"
         },
         {
           "slideNumber": 12,
-          "path": "slide/slide-image/pert09/slide-012-v001.webp"
+          "path": "slide/slide-image/pert09-meeting-10/slide-012-v001.webp"
         },
         {
           "slideNumber": 13,
-          "path": "slide/slide-image/pert09/slide-013-v001.webp"
+          "path": "slide/slide-image/pert09-meeting-10/slide-013-v001.webp"
         },
         {
           "slideNumber": 14,
-          "path": "slide/slide-image/pert09/slide-014-v001.webp"
+          "path": "slide/slide-image/pert09-meeting-10/slide-014-v001.webp"
         },
         {
           "slideNumber": 15,
-          "path": "slide/slide-image/pert09/slide-015-v001.webp"
+          "path": "slide/slide-image/pert09-meeting-10/slide-015-v001.webp"
         },
         {
           "slideNumber": 16,
-          "path": "slide/slide-image/pert09/slide-016-v001.webp"
+          "path": "slide/slide-image/pert09-meeting-10/slide-016-v001.webp"
         },
         {
           "slideNumber": 17,
-          "path": "slide/slide-image/pert09/slide-017-v001.webp"
+          "path": "slide/slide-image/pert09-meeting-10/slide-017-v001.webp"
         },
         {
           "slideNumber": 18,
-          "path": "slide/slide-image/pert09/slide-018-v001.webp"
+          "path": "slide/slide-image/pert09-meeting-10/slide-018-v001.webp"
         },
         {
           "slideNumber": 19,
-          "path": "slide/slide-image/pert09/slide-019-v001.webp"
+          "path": "slide/slide-image/pert09-meeting-10/slide-019-v001.webp"
         },
         {
           "slideNumber": 20,
-          "path": "slide/slide-image/pert09/slide-020-v001.webp"
+          "path": "slide/slide-image/pert09-meeting-10/slide-020-v001.webp"
         },
         {
           "slideNumber": 21,
-          "path": "slide/slide-image/pert09/slide-021-v001.webp"
+          "path": "slide/slide-image/pert09-meeting-10/slide-021-v001.webp"
         },
         {
           "slideNumber": 22,
-          "path": "slide/slide-image/pert09/slide-022-v001.webp"
+          "path": "slide/slide-image/pert09-meeting-10/slide-022-v001.webp"
         },
         {
           "slideNumber": 23,
-          "path": "slide/slide-image/pert09/slide-023-v001.webp"
+          "path": "slide/slide-image/pert09-meeting-10/slide-023-v001.webp"
         },
         {
           "slideNumber": 24,
-          "path": "slide/slide-image/pert09/slide-024-v001.webp"
+          "path": "slide/slide-image/pert09-meeting-10/slide-024-v001.webp"
         },
         {
           "slideNumber": 25,
-          "path": "slide/slide-image/pert09/slide-025-v001.webp"
+          "path": "slide/slide-image/pert09-meeting-10/slide-025-v001.webp"
         },
         {
           "slideNumber": 26,
-          "path": "slide/slide-image/pert09/slide-026-v001.webp"
+          "path": "slide/slide-image/pert09-meeting-10/slide-026-v001.webp"
         },
         {
           "slideNumber": 27,
-          "path": "slide/slide-image/pert09/slide-027-v001.webp"
+          "path": "slide/slide-image/pert09-meeting-10/slide-027-v001.webp"
         },
         {
           "slideNumber": 28,
-          "path": "slide/slide-image/pert09/slide-028-v001.webp"
+          "path": "slide/slide-image/pert09-meeting-10/slide-028-v001.webp"
         },
         {
           "slideNumber": 29,
-          "path": "slide/slide-image/pert09/slide-029-v001.webp"
+          "path": "slide/slide-image/pert09-meeting-10/slide-029-v001.webp"
         },
         {
           "slideNumber": 30,
-          "path": "slide/slide-image/pert09/slide-030-v001.webp"
+          "path": "slide/slide-image/pert09-meeting-10/slide-030-v001.webp"
         },
         {
           "slideNumber": 31,
-          "path": "slide/slide-image/pert09/slide-031-v001.webp"
+          "path": "slide/slide-image/pert09-meeting-10/slide-031-v001.webp"
         },
         {
           "slideNumber": 32,
-          "path": "slide/slide-image/pert09/slide-032-v001.webp"
+          "path": "slide/slide-image/pert09-meeting-10/slide-032-v001.webp"
         },
         {
           "slideNumber": 33,
-          "path": "slide/slide-image/pert09/slide-033-v001.webp"
+          "path": "slide/slide-image/pert09-meeting-10/slide-033-v001.webp"
         },
         {
           "slideNumber": 34,
-          "path": "slide/slide-image/pert09/slide-034-v001.webp"
+          "path": "slide/slide-image/pert09-meeting-10/slide-034-v001.webp"
         },
         {
           "slideNumber": 35,
-          "path": "slide/slide-image/pert09/slide-035-v001.webp"
+          "path": "slide/slide-image/pert09-meeting-10/slide-035-v001.webp"
         },
         {
           "slideNumber": 36,
-          "path": "slide/slide-image/pert09/slide-036-v001.webp"
+          "path": "slide/slide-image/pert09-meeting-10/slide-036-v001.webp"
         },
         {
           "slideNumber": 37,
-          "path": "slide/slide-image/pert09/slide-037-v001.webp"
+          "path": "slide/slide-image/pert09-meeting-10/slide-037-v001.webp"
         },
         {
           "slideNumber": 38,
-          "path": "slide/slide-image/pert09/slide-038-v001.webp"
+          "path": "slide/slide-image/pert09-meeting-10/slide-038-v001.webp"
         },
         {
           "slideNumber": 39,
-          "path": "slide/slide-image/pert09/slide-039-v001.webp"
+          "path": "slide/slide-image/pert09-meeting-10/slide-039-v001.webp"
         },
         {
           "slideNumber": 40,
-          "path": "slide/slide-image/pert09/slide-040-v001.webp"
+          "path": "slide/slide-image/pert09-meeting-10/slide-040-v001.webp"
         },
         {
           "slideNumber": 41,
-          "path": "slide/slide-image/pert09/slide-041-v001.webp"
+          "path": "slide/slide-image/pert09-meeting-10/slide-041-v001.webp"
         },
         {
           "slideNumber": 42,
-          "path": "slide/slide-image/pert09/slide-042-v001.webp"
+          "path": "slide/slide-image/pert09-meeting-10/slide-042-v001.webp"
         },
         {
           "slideNumber": 43,
-          "path": "slide/slide-image/pert09/slide-043-v001.webp"
+          "path": "slide/slide-image/pert09-meeting-10/slide-043-v001.webp"
         },
         {
           "slideNumber": 44,
-          "path": "slide/slide-image/pert09/slide-044-v001.webp"
+          "path": "slide/slide-image/pert09-meeting-10/slide-044-v001.webp"
         },
         {
           "slideNumber": 45,
-          "path": "slide/slide-image/pert09/slide-045-v001.webp"
+          "path": "slide/slide-image/pert09-meeting-10/slide-045-v001.webp"
         },
         {
           "slideNumber": 46,
-          "path": "slide/slide-image/pert09/slide-046-v001.webp"
+          "path": "slide/slide-image/pert09-meeting-10/slide-046-v001.webp"
         },
         {
           "slideNumber": 47,
-          "path": "slide/slide-image/pert09/slide-047-v001.webp"
+          "path": "slide/slide-image/pert09-meeting-10/slide-047-v001.webp"
         },
         {
           "slideNumber": 48,
-          "path": "slide/slide-image/pert09/slide-048-v001.webp"
+          "path": "slide/slide-image/pert09-meeting-10/slide-048-v001.webp"
         },
         {
           "slideNumber": 49,
-          "path": "slide/slide-image/pert09/slide-049-v001.webp"
+          "path": "slide/slide-image/pert09-meeting-10/slide-049-v001.webp"
         },
         {
           "slideNumber": 50,
-          "path": "slide/slide-image/pert09/slide-050-v001.webp"
+          "path": "slide/slide-image/pert09-meeting-10/slide-050-v001.webp"
         },
         {
           "slideNumber": 51,
-          "path": "slide/slide-image/pert09/slide-051-v001.webp"
+          "path": "slide/slide-image/pert09-meeting-10/slide-051-v001.webp"
         },
         {
           "slideNumber": 52,
-          "path": "slide/slide-image/pert09/slide-052-v001.webp"
+          "path": "slide/slide-image/pert09-meeting-10/slide-052-v001.webp"
         },
         {
           "slideNumber": 53,
-          "path": "slide/slide-image/pert09/slide-053-v001.webp"
+          "path": "slide/slide-image/pert09-meeting-10/slide-053-v001.webp"
         },
         {
           "slideNumber": 54,
-          "path": "slide/slide-image/pert09/slide-054-v001.webp"
+          "path": "slide/slide-image/pert09-meeting-10/slide-054-v001.webp"
         },
         {
           "slideNumber": 55,
-          "path": "slide/slide-image/pert09/slide-055-v001.webp"
+          "path": "slide/slide-image/pert09-meeting-10/slide-055-v001.webp"
         },
         {
           "slideNumber": 56,
-          "path": "slide/slide-image/pert09/slide-056-v001.webp"
+          "path": "slide/slide-image/pert09-meeting-10/slide-056-v001.webp"
         },
         {
           "slideNumber": 57,
-          "path": "slide/slide-image/pert09/slide-057-v001.webp"
+          "path": "slide/slide-image/pert09-meeting-10/slide-057-v001.webp"
         },
         {
           "slideNumber": 58,
-          "path": "slide/slide-image/pert09/slide-058-v001.webp"
+          "path": "slide/slide-image/pert09-meeting-10/slide-058-v001.webp"
         },
         {
           "slideNumber": 59,
-          "path": "slide/slide-image/pert09/slide-059-v001.webp"
+          "path": "slide/slide-image/pert09-meeting-10/slide-059-v001.webp"
         },
         {
           "slideNumber": 60,
-          "path": "slide/slide-image/pert09/slide-060-v001.webp"
+          "path": "slide/slide-image/pert09-meeting-10/slide-060-v001.webp"
         },
         {
           "slideNumber": 61,
-          "path": "slide/slide-image/pert09/slide-061-v001.webp"
+          "path": "slide/slide-image/pert09-meeting-10/slide-061-v001.webp"
         },
         {
           "slideNumber": 62,
-          "path": "slide/slide-image/pert09/slide-062-v001.webp"
+          "path": "slide/slide-image/pert09-meeting-10/slide-062-v001.webp"
         },
         {
           "slideNumber": 63,
-          "path": "slide/slide-image/pert09/slide-063-v001.webp"
+          "path": "slide/slide-image/pert09-meeting-10/slide-063-v001.webp"
         },
         {
           "slideNumber": 64,
-          "path": "slide/slide-image/pert09/slide-064-v001.webp"
+          "path": "slide/slide-image/pert09-meeting-10/slide-064-v001.webp"
         },
         {
           "slideNumber": 65,
-          "path": "slide/slide-image/pert09/slide-065-v001.webp"
+          "path": "slide/slide-image/pert09-meeting-10/slide-065-v001.webp"
         },
         {
           "slideNumber": 66,
-          "path": "slide/slide-image/pert09/slide-066-v001.webp"
+          "path": "slide/slide-image/pert09-meeting-10/slide-066-v001.webp"
         },
         {
           "slideNumber": 67,
-          "path": "slide/slide-image/pert09/slide-067-v001.webp"
+          "path": "slide/slide-image/pert09-meeting-10/slide-067-v001.webp"
         },
         {
           "slideNumber": 68,
-          "path": "slide/slide-image/pert09/slide-068-v001.webp"
+          "path": "slide/slide-image/pert09-meeting-10/slide-068-v001.webp"
         },
         {
           "slideNumber": 69,
-          "path": "slide/slide-image/pert09/slide-069-v001.webp"
+          "path": "slide/slide-image/pert09-meeting-10/slide-069-v001.webp"
         },
         {
           "slideNumber": 70,
-          "path": "slide/slide-image/pert09/slide-070-v001.webp"
+          "path": "slide/slide-image/pert09-meeting-10/slide-070-v001.webp"
         },
         {
           "slideNumber": 71,
-          "path": "slide/slide-image/pert09/slide-071-v001.webp"
+          "path": "slide/slide-image/pert09-meeting-10/slide-071-v001.webp"
         },
         {
           "slideNumber": 72,
-          "path": "slide/slide-image/pert09/slide-072-v001.webp"
+          "path": "slide/slide-image/pert09-meeting-10/slide-072-v001.webp"
         },
         {
           "slideNumber": 73,
-          "path": "slide/slide-image/pert09/slide-073-v001.webp"
+          "path": "slide/slide-image/pert09-meeting-10/slide-073-v001.webp"
         },
         {
           "slideNumber": 74,
-          "path": "slide/slide-image/pert09/slide-074-v001.webp"
+          "path": "slide/slide-image/pert09-meeting-10/slide-074-v001.webp"
         },
         {
           "slideNumber": 75,
-          "path": "slide/slide-image/pert09/slide-075-v001.webp"
+          "path": "slide/slide-image/pert09-meeting-10/slide-075-v001.webp"
         },
         {
           "slideNumber": 76,
-          "path": "slide/slide-image/pert09/slide-076-v001.webp"
+          "path": "slide/slide-image/pert09-meeting-10/slide-076-v001.webp"
         },
         {
           "slideNumber": 77,
-          "path": "slide/slide-image/pert09/slide-077-v001.webp"
+          "path": "slide/slide-image/pert09-meeting-10/slide-077-v001.webp"
         }
       ],
       "slideCount": 77,
@@ -3452,343 +3646,497 @@ export const courseData = {
       "narrationCount": 77
     },
     {
-      "id": "pert10",
+      "id": "pert10-meeting-239",
       "number": 10,
       "title": "PCG for Level & Dungeon Generation",
       "subtitle": "",
-      "slidePath": "slide/pert10.md",
-      "narrationPath": "slide/narasi/pert10.md",
+      "slidePath": "slide/pert10-meeting-239.md",
+      "narrationPath": "slide/narasi/pert10-meeting-239.md",
+      "practicumPaths": [],
+      "images": [
+        {
+          "slideNumber": 1,
+          "path": "slide/slide-image/pert10-meeting-239/slide-001-v001.webp"
+        },
+        {
+          "slideNumber": 2,
+          "path": "slide/slide-image/pert10-meeting-239/slide-002-v001.webp"
+        },
+        {
+          "slideNumber": 3,
+          "path": "slide/slide-image/pert10-meeting-239/slide-003-v001.webp"
+        },
+        {
+          "slideNumber": 4,
+          "path": "slide/slide-image/pert10-meeting-239/slide-004-v001.webp"
+        },
+        {
+          "slideNumber": 5,
+          "path": "slide/slide-image/pert10-meeting-239/slide-005-v001.webp"
+        },
+        {
+          "slideNumber": 6,
+          "path": "slide/slide-image/pert10-meeting-239/slide-006-v001.webp"
+        },
+        {
+          "slideNumber": 7,
+          "path": "slide/slide-image/pert10-meeting-239/slide-007-v001.webp"
+        },
+        {
+          "slideNumber": 8,
+          "path": "slide/slide-image/pert10-meeting-239/slide-008-v001.webp"
+        },
+        {
+          "slideNumber": 9,
+          "path": "slide/slide-image/pert10-meeting-239/slide-009-v001.webp"
+        },
+        {
+          "slideNumber": 10,
+          "path": "slide/slide-image/pert10-meeting-239/slide-010-v001.webp"
+        },
+        {
+          "slideNumber": 11,
+          "path": "slide/slide-image/pert10-meeting-239/slide-011-v001.webp"
+        },
+        {
+          "slideNumber": 12,
+          "path": "slide/slide-image/pert10-meeting-239/slide-012-v001.webp"
+        },
+        {
+          "slideNumber": 13,
+          "path": "slide/slide-image/pert10-meeting-239/slide-013-v001.webp"
+        },
+        {
+          "slideNumber": 14,
+          "path": "slide/slide-image/pert10-meeting-239/slide-014-v001.webp"
+        },
+        {
+          "slideNumber": 15,
+          "path": "slide/slide-image/pert10-meeting-239/slide-015-v001.webp"
+        },
+        {
+          "slideNumber": 16,
+          "path": "slide/slide-image/pert10-meeting-239/slide-016-v001.webp"
+        },
+        {
+          "slideNumber": 17,
+          "path": "slide/slide-image/pert10-meeting-239/slide-017-v001.webp"
+        },
+        {
+          "slideNumber": 18,
+          "path": "slide/slide-image/pert10-meeting-239/slide-018-v001.webp"
+        },
+        {
+          "slideNumber": 19,
+          "path": "slide/slide-image/pert10-meeting-239/slide-019-v001.webp"
+        },
+        {
+          "slideNumber": 20,
+          "path": "slide/slide-image/pert10-meeting-239/slide-020-v001.webp"
+        },
+        {
+          "slideNumber": 21,
+          "path": "slide/slide-image/pert10-meeting-239/slide-021-v001.webp"
+        },
+        {
+          "slideNumber": 22,
+          "path": "slide/slide-image/pert10-meeting-239/slide-022-v001.webp"
+        },
+        {
+          "slideNumber": 23,
+          "path": "slide/slide-image/pert10-meeting-239/slide-023-v001.webp"
+        },
+        {
+          "slideNumber": 24,
+          "path": "slide/slide-image/pert10-meeting-239/slide-024-v001.webp"
+        },
+        {
+          "slideNumber": 25,
+          "path": "slide/slide-image/pert10-meeting-239/slide-025-v001.webp"
+        },
+        {
+          "slideNumber": 26,
+          "path": "slide/slide-image/pert10-meeting-239/slide-026-v001.webp"
+        },
+        {
+          "slideNumber": 27,
+          "path": "slide/slide-image/pert10-meeting-239/slide-027-v001.webp"
+        },
+        {
+          "slideNumber": 28,
+          "path": "slide/slide-image/pert10-meeting-239/slide-028-v001.webp"
+        },
+        {
+          "slideNumber": 29,
+          "path": "slide/slide-image/pert10-meeting-239/slide-029-v001.webp"
+        },
+        {
+          "slideNumber": 30,
+          "path": "slide/slide-image/pert10-meeting-239/slide-030-v001.webp"
+        },
+        {
+          "slideNumber": 31,
+          "path": "slide/slide-image/pert10-meeting-239/slide-031-v001.webp"
+        },
+        {
+          "slideNumber": 32,
+          "path": "slide/slide-image/pert10-meeting-239/slide-032-v001.webp"
+        },
+        {
+          "slideNumber": 33,
+          "path": "slide/slide-image/pert10-meeting-239/slide-033-v001.webp"
+        },
+        {
+          "slideNumber": 34,
+          "path": "slide/slide-image/pert10-meeting-239/slide-034-v001.webp"
+        },
+        {
+          "slideNumber": 35,
+          "path": "slide/slide-image/pert10-meeting-239/slide-035-v001.webp"
+        }
+      ],
+      "slideCount": 35,
+      "imageCount": 35,
+      "narrationCount": 0
+    },
+    {
+      "id": "pert10-meeting-11",
+      "number": 10,
+      "title": "PCG for Level & Dungeon Generation",
+      "subtitle": "",
+      "slidePath": "slide/pert10-meeting-11.md",
+      "narrationPath": "slide/narasi/pert10-meeting-11.md",
       "practicumPaths": [
-        "praktikum/modul-praktikum-10-procedural-dungeon-generation-dengan-bsp-di-unity-6.md"
+        "praktikum/pert10-meeting-11/modul-praktikum-10-procedural-dungeon-generation-dengan-bsp-di-unity-6.md"
       ],
       "images": [
         {
           "slideNumber": 1,
-          "path": "slide/slide-image/pert10/slide-001-v001.webp"
+          "path": "slide/slide-image/pert10-meeting-11/slide-001-v001.webp"
         },
         {
           "slideNumber": 2,
-          "path": "slide/slide-image/pert10/slide-002-v001.webp"
+          "path": "slide/slide-image/pert10-meeting-11/slide-002-v001.webp"
         },
         {
           "slideNumber": 3,
-          "path": "slide/slide-image/pert10/slide-003-v001.webp"
+          "path": "slide/slide-image/pert10-meeting-11/slide-003-v001.webp"
         },
         {
           "slideNumber": 4,
-          "path": "slide/slide-image/pert10/slide-004-v001.webp"
+          "path": "slide/slide-image/pert10-meeting-11/slide-004-v001.webp"
         },
         {
           "slideNumber": 5,
-          "path": "slide/slide-image/pert10/slide-005-v001.webp"
+          "path": "slide/slide-image/pert10-meeting-11/slide-005-v001.webp"
         },
         {
           "slideNumber": 6,
-          "path": "slide/slide-image/pert10/slide-006-v001.webp"
+          "path": "slide/slide-image/pert10-meeting-11/slide-006-v001.webp"
         },
         {
           "slideNumber": 7,
-          "path": "slide/slide-image/pert10/slide-007-v001.webp"
+          "path": "slide/slide-image/pert10-meeting-11/slide-007-v001.webp"
         },
         {
           "slideNumber": 8,
-          "path": "slide/slide-image/pert10/slide-008-v001.webp"
+          "path": "slide/slide-image/pert10-meeting-11/slide-008-v001.webp"
         },
         {
           "slideNumber": 9,
-          "path": "slide/slide-image/pert10/slide-009-v001.webp"
+          "path": "slide/slide-image/pert10-meeting-11/slide-009-v001.webp"
         },
         {
           "slideNumber": 10,
-          "path": "slide/slide-image/pert10/slide-010-v001.webp"
+          "path": "slide/slide-image/pert10-meeting-11/slide-010-v001.webp"
         },
         {
           "slideNumber": 11,
-          "path": "slide/slide-image/pert10/slide-011-v001.webp"
+          "path": "slide/slide-image/pert10-meeting-11/slide-011-v001.webp"
         },
         {
           "slideNumber": 12,
-          "path": "slide/slide-image/pert10/slide-012-v001.webp"
+          "path": "slide/slide-image/pert10-meeting-11/slide-012-v001.webp"
         },
         {
           "slideNumber": 13,
-          "path": "slide/slide-image/pert10/slide-013-v001.webp"
+          "path": "slide/slide-image/pert10-meeting-11/slide-013-v001.webp"
         },
         {
           "slideNumber": 14,
-          "path": "slide/slide-image/pert10/slide-014-v001.webp"
+          "path": "slide/slide-image/pert10-meeting-11/slide-014-v001.webp"
         },
         {
           "slideNumber": 15,
-          "path": "slide/slide-image/pert10/slide-015-v001.webp"
+          "path": "slide/slide-image/pert10-meeting-11/slide-015-v001.webp"
         },
         {
           "slideNumber": 16,
-          "path": "slide/slide-image/pert10/slide-016-v001.webp"
+          "path": "slide/slide-image/pert10-meeting-11/slide-016-v001.webp"
         },
         {
           "slideNumber": 17,
-          "path": "slide/slide-image/pert10/slide-017-v001.webp"
+          "path": "slide/slide-image/pert10-meeting-11/slide-017-v001.webp"
         },
         {
           "slideNumber": 18,
-          "path": "slide/slide-image/pert10/slide-018-v001.webp"
+          "path": "slide/slide-image/pert10-meeting-11/slide-018-v001.webp"
         },
         {
           "slideNumber": 19,
-          "path": "slide/slide-image/pert10/slide-019-v001.webp"
+          "path": "slide/slide-image/pert10-meeting-11/slide-019-v001.webp"
         },
         {
           "slideNumber": 20,
-          "path": "slide/slide-image/pert10/slide-020-v001.webp"
+          "path": "slide/slide-image/pert10-meeting-11/slide-020-v001.webp"
         },
         {
           "slideNumber": 21,
-          "path": "slide/slide-image/pert10/slide-021-v001.webp"
+          "path": "slide/slide-image/pert10-meeting-11/slide-021-v001.webp"
         },
         {
           "slideNumber": 22,
-          "path": "slide/slide-image/pert10/slide-022-v001.webp"
+          "path": "slide/slide-image/pert10-meeting-11/slide-022-v001.webp"
         },
         {
           "slideNumber": 23,
-          "path": "slide/slide-image/pert10/slide-023-v001.webp"
+          "path": "slide/slide-image/pert10-meeting-11/slide-023-v001.webp"
         },
         {
           "slideNumber": 24,
-          "path": "slide/slide-image/pert10/slide-024-v001.webp"
+          "path": "slide/slide-image/pert10-meeting-11/slide-024-v001.webp"
         },
         {
           "slideNumber": 25,
-          "path": "slide/slide-image/pert10/slide-025-v001.webp"
+          "path": "slide/slide-image/pert10-meeting-11/slide-025-v001.webp"
         },
         {
           "slideNumber": 26,
-          "path": "slide/slide-image/pert10/slide-026-v001.webp"
+          "path": "slide/slide-image/pert10-meeting-11/slide-026-v001.webp"
         },
         {
           "slideNumber": 27,
-          "path": "slide/slide-image/pert10/slide-027-v001.webp"
+          "path": "slide/slide-image/pert10-meeting-11/slide-027-v001.webp"
         },
         {
           "slideNumber": 28,
-          "path": "slide/slide-image/pert10/slide-028-v001.webp"
+          "path": "slide/slide-image/pert10-meeting-11/slide-028-v001.webp"
         },
         {
           "slideNumber": 29,
-          "path": "slide/slide-image/pert10/slide-029-v001.webp"
+          "path": "slide/slide-image/pert10-meeting-11/slide-029-v001.webp"
         },
         {
           "slideNumber": 30,
-          "path": "slide/slide-image/pert10/slide-030-v001.webp"
+          "path": "slide/slide-image/pert10-meeting-11/slide-030-v001.webp"
         },
         {
           "slideNumber": 31,
-          "path": "slide/slide-image/pert10/slide-031-v001.webp"
+          "path": "slide/slide-image/pert10-meeting-11/slide-031-v001.webp"
         },
         {
           "slideNumber": 32,
-          "path": "slide/slide-image/pert10/slide-032-v001.webp"
+          "path": "slide/slide-image/pert10-meeting-11/slide-032-v001.webp"
         },
         {
           "slideNumber": 33,
-          "path": "slide/slide-image/pert10/slide-033-v001.webp"
+          "path": "slide/slide-image/pert10-meeting-11/slide-033-v001.webp"
         },
         {
           "slideNumber": 34,
-          "path": "slide/slide-image/pert10/slide-034-v001.webp"
+          "path": "slide/slide-image/pert10-meeting-11/slide-034-v001.webp"
         },
         {
           "slideNumber": 35,
-          "path": "slide/slide-image/pert10/slide-035-v001.webp"
+          "path": "slide/slide-image/pert10-meeting-11/slide-035-v001.webp"
         },
         {
           "slideNumber": 36,
-          "path": "slide/slide-image/pert10/slide-036-v001.webp"
+          "path": "slide/slide-image/pert10-meeting-11/slide-036-v001.webp"
         },
         {
           "slideNumber": 37,
-          "path": "slide/slide-image/pert10/slide-037-v001.webp"
+          "path": "slide/slide-image/pert10-meeting-11/slide-037-v001.webp"
         },
         {
           "slideNumber": 38,
-          "path": "slide/slide-image/pert10/slide-038-v001.webp"
+          "path": "slide/slide-image/pert10-meeting-11/slide-038-v001.webp"
         },
         {
           "slideNumber": 39,
-          "path": "slide/slide-image/pert10/slide-039-v001.webp"
+          "path": "slide/slide-image/pert10-meeting-11/slide-039-v001.webp"
         },
         {
           "slideNumber": 40,
-          "path": "slide/slide-image/pert10/slide-040-v001.webp"
+          "path": "slide/slide-image/pert10-meeting-11/slide-040-v001.webp"
         },
         {
           "slideNumber": 41,
-          "path": "slide/slide-image/pert10/slide-041-v001.webp"
+          "path": "slide/slide-image/pert10-meeting-11/slide-041-v001.webp"
         },
         {
           "slideNumber": 42,
-          "path": "slide/slide-image/pert10/slide-042-v001.webp"
+          "path": "slide/slide-image/pert10-meeting-11/slide-042-v001.webp"
         },
         {
           "slideNumber": 43,
-          "path": "slide/slide-image/pert10/slide-043-v001.webp"
+          "path": "slide/slide-image/pert10-meeting-11/slide-043-v001.webp"
         },
         {
           "slideNumber": 44,
-          "path": "slide/slide-image/pert10/slide-044-v001.webp"
+          "path": "slide/slide-image/pert10-meeting-11/slide-044-v001.webp"
         },
         {
           "slideNumber": 45,
-          "path": "slide/slide-image/pert10/slide-045-v001.webp"
+          "path": "slide/slide-image/pert10-meeting-11/slide-045-v001.webp"
         },
         {
           "slideNumber": 46,
-          "path": "slide/slide-image/pert10/slide-046-v001.webp"
+          "path": "slide/slide-image/pert10-meeting-11/slide-046-v001.webp"
         },
         {
           "slideNumber": 47,
-          "path": "slide/slide-image/pert10/slide-047-v001.webp"
+          "path": "slide/slide-image/pert10-meeting-11/slide-047-v001.webp"
         },
         {
           "slideNumber": 48,
-          "path": "slide/slide-image/pert10/slide-048-v001.webp"
+          "path": "slide/slide-image/pert10-meeting-11/slide-048-v001.webp"
         },
         {
           "slideNumber": 49,
-          "path": "slide/slide-image/pert10/slide-049-v001.webp"
+          "path": "slide/slide-image/pert10-meeting-11/slide-049-v001.webp"
         },
         {
           "slideNumber": 50,
-          "path": "slide/slide-image/pert10/slide-050-v001.webp"
+          "path": "slide/slide-image/pert10-meeting-11/slide-050-v001.webp"
         },
         {
           "slideNumber": 51,
-          "path": "slide/slide-image/pert10/slide-051-v001.webp"
+          "path": "slide/slide-image/pert10-meeting-11/slide-051-v001.webp"
         },
         {
           "slideNumber": 52,
-          "path": "slide/slide-image/pert10/slide-052-v001.webp"
+          "path": "slide/slide-image/pert10-meeting-11/slide-052-v001.webp"
         },
         {
           "slideNumber": 53,
-          "path": "slide/slide-image/pert10/slide-053-v001.webp"
+          "path": "slide/slide-image/pert10-meeting-11/slide-053-v001.webp"
         },
         {
           "slideNumber": 54,
-          "path": "slide/slide-image/pert10/slide-054-v001.webp"
+          "path": "slide/slide-image/pert10-meeting-11/slide-054-v001.webp"
         },
         {
           "slideNumber": 55,
-          "path": "slide/slide-image/pert10/slide-055-v001.webp"
+          "path": "slide/slide-image/pert10-meeting-11/slide-055-v001.webp"
         },
         {
           "slideNumber": 56,
-          "path": "slide/slide-image/pert10/slide-056-v001.webp"
+          "path": "slide/slide-image/pert10-meeting-11/slide-056-v001.webp"
         },
         {
           "slideNumber": 57,
-          "path": "slide/slide-image/pert10/slide-057-v001.webp"
+          "path": "slide/slide-image/pert10-meeting-11/slide-057-v001.webp"
         },
         {
           "slideNumber": 58,
-          "path": "slide/slide-image/pert10/slide-058-v001.webp"
+          "path": "slide/slide-image/pert10-meeting-11/slide-058-v001.webp"
         },
         {
           "slideNumber": 59,
-          "path": "slide/slide-image/pert10/slide-059-v001.webp"
+          "path": "slide/slide-image/pert10-meeting-11/slide-059-v001.webp"
         },
         {
           "slideNumber": 60,
-          "path": "slide/slide-image/pert10/slide-060-v001.webp"
+          "path": "slide/slide-image/pert10-meeting-11/slide-060-v001.webp"
         },
         {
           "slideNumber": 61,
-          "path": "slide/slide-image/pert10/slide-061-v001.webp"
+          "path": "slide/slide-image/pert10-meeting-11/slide-061-v001.webp"
         },
         {
           "slideNumber": 62,
-          "path": "slide/slide-image/pert10/slide-062-v001.webp"
+          "path": "slide/slide-image/pert10-meeting-11/slide-062-v001.webp"
         },
         {
           "slideNumber": 63,
-          "path": "slide/slide-image/pert10/slide-063-v001.webp"
+          "path": "slide/slide-image/pert10-meeting-11/slide-063-v001.webp"
         },
         {
           "slideNumber": 64,
-          "path": "slide/slide-image/pert10/slide-064-v001.webp"
+          "path": "slide/slide-image/pert10-meeting-11/slide-064-v001.webp"
         },
         {
           "slideNumber": 65,
-          "path": "slide/slide-image/pert10/slide-065-v001.webp"
+          "path": "slide/slide-image/pert10-meeting-11/slide-065-v001.webp"
         },
         {
           "slideNumber": 66,
-          "path": "slide/slide-image/pert10/slide-066-v001.webp"
+          "path": "slide/slide-image/pert10-meeting-11/slide-066-v001.webp"
         },
         {
           "slideNumber": 67,
-          "path": "slide/slide-image/pert10/slide-067-v001.webp"
+          "path": "slide/slide-image/pert10-meeting-11/slide-067-v001.webp"
         },
         {
           "slideNumber": 68,
-          "path": "slide/slide-image/pert10/slide-068-v001.webp"
+          "path": "slide/slide-image/pert10-meeting-11/slide-068-v001.webp"
         },
         {
           "slideNumber": 69,
-          "path": "slide/slide-image/pert10/slide-069-v001.webp"
+          "path": "slide/slide-image/pert10-meeting-11/slide-069-v001.webp"
         },
         {
           "slideNumber": 70,
-          "path": "slide/slide-image/pert10/slide-070-v001.webp"
+          "path": "slide/slide-image/pert10-meeting-11/slide-070-v001.webp"
         },
         {
           "slideNumber": 71,
-          "path": "slide/slide-image/pert10/slide-071-v001.webp"
+          "path": "slide/slide-image/pert10-meeting-11/slide-071-v001.webp"
         },
         {
           "slideNumber": 72,
-          "path": "slide/slide-image/pert10/slide-072-v001.webp"
+          "path": "slide/slide-image/pert10-meeting-11/slide-072-v001.webp"
         },
         {
           "slideNumber": 73,
-          "path": "slide/slide-image/pert10/slide-073-v001.webp"
+          "path": "slide/slide-image/pert10-meeting-11/slide-073-v001.webp"
         },
         {
           "slideNumber": 74,
-          "path": "slide/slide-image/pert10/slide-074-v001.webp"
+          "path": "slide/slide-image/pert10-meeting-11/slide-074-v001.webp"
         },
         {
           "slideNumber": 75,
-          "path": "slide/slide-image/pert10/slide-075-v001.webp"
+          "path": "slide/slide-image/pert10-meeting-11/slide-075-v001.webp"
         },
         {
           "slideNumber": 76,
-          "path": "slide/slide-image/pert10/slide-076-v001.webp"
+          "path": "slide/slide-image/pert10-meeting-11/slide-076-v001.webp"
         },
         {
           "slideNumber": 77,
-          "path": "slide/slide-image/pert10/slide-077-v001.webp"
+          "path": "slide/slide-image/pert10-meeting-11/slide-077-v001.webp"
         },
         {
           "slideNumber": 78,
-          "path": "slide/slide-image/pert10/slide-078-v001.webp"
+          "path": "slide/slide-image/pert10-meeting-11/slide-078-v001.webp"
         },
         {
           "slideNumber": 79,
-          "path": "slide/slide-image/pert10/slide-079-v001.webp"
+          "path": "slide/slide-image/pert10-meeting-11/slide-079-v001.webp"
         },
         {
           "slideNumber": 80,
-          "path": "slide/slide-image/pert10/slide-080-v001.webp"
+          "path": "slide/slide-image/pert10-meeting-11/slide-080-v001.webp"
         },
         {
           "slideNumber": 81,
-          "path": "slide/slide-image/pert10/slide-081-v001.webp"
+          "path": "slide/slide-image/pert10-meeting-11/slide-081-v001.webp"
         },
         {
           "slideNumber": 82,
-          "path": "slide/slide-image/pert10/slide-082-v001.webp"
+          "path": "slide/slide-image/pert10-meeting-11/slide-082-v001.webp"
         }
       ],
       "slideCount": 82,
@@ -3796,343 +4144,497 @@ export const courseData = {
       "narrationCount": 82
     },
     {
-      "id": "pert11",
+      "id": "pert11-meeting-242",
       "number": 11,
       "title": "Dynamic Difficulty Adjustment",
       "subtitle": "",
-      "slidePath": "slide/pert11.md",
-      "narrationPath": "slide/narasi/pert11.md",
+      "slidePath": "slide/pert11-meeting-242.md",
+      "narrationPath": "slide/narasi/pert11-meeting-242.md",
+      "practicumPaths": [],
+      "images": [
+        {
+          "slideNumber": 1,
+          "path": "slide/slide-image/pert11-meeting-242/slide-001-v001.webp"
+        },
+        {
+          "slideNumber": 2,
+          "path": "slide/slide-image/pert11-meeting-242/slide-002-v001.webp"
+        },
+        {
+          "slideNumber": 3,
+          "path": "slide/slide-image/pert11-meeting-242/slide-003-v001.webp"
+        },
+        {
+          "slideNumber": 4,
+          "path": "slide/slide-image/pert11-meeting-242/slide-004-v001.webp"
+        },
+        {
+          "slideNumber": 5,
+          "path": "slide/slide-image/pert11-meeting-242/slide-005-v001.webp"
+        },
+        {
+          "slideNumber": 6,
+          "path": "slide/slide-image/pert11-meeting-242/slide-006-v001.webp"
+        },
+        {
+          "slideNumber": 7,
+          "path": "slide/slide-image/pert11-meeting-242/slide-007-v001.webp"
+        },
+        {
+          "slideNumber": 8,
+          "path": "slide/slide-image/pert11-meeting-242/slide-008-v001.webp"
+        },
+        {
+          "slideNumber": 9,
+          "path": "slide/slide-image/pert11-meeting-242/slide-009-v001.webp"
+        },
+        {
+          "slideNumber": 10,
+          "path": "slide/slide-image/pert11-meeting-242/slide-010-v001.webp"
+        },
+        {
+          "slideNumber": 11,
+          "path": "slide/slide-image/pert11-meeting-242/slide-011-v001.webp"
+        },
+        {
+          "slideNumber": 12,
+          "path": "slide/slide-image/pert11-meeting-242/slide-012-v001.webp"
+        },
+        {
+          "slideNumber": 13,
+          "path": "slide/slide-image/pert11-meeting-242/slide-013-v001.webp"
+        },
+        {
+          "slideNumber": 14,
+          "path": "slide/slide-image/pert11-meeting-242/slide-014-v001.webp"
+        },
+        {
+          "slideNumber": 15,
+          "path": "slide/slide-image/pert11-meeting-242/slide-015-v001.webp"
+        },
+        {
+          "slideNumber": 16,
+          "path": "slide/slide-image/pert11-meeting-242/slide-016-v001.webp"
+        },
+        {
+          "slideNumber": 17,
+          "path": "slide/slide-image/pert11-meeting-242/slide-017-v001.webp"
+        },
+        {
+          "slideNumber": 18,
+          "path": "slide/slide-image/pert11-meeting-242/slide-018-v001.webp"
+        },
+        {
+          "slideNumber": 19,
+          "path": "slide/slide-image/pert11-meeting-242/slide-019-v001.webp"
+        },
+        {
+          "slideNumber": 20,
+          "path": "slide/slide-image/pert11-meeting-242/slide-020-v001.webp"
+        },
+        {
+          "slideNumber": 21,
+          "path": "slide/slide-image/pert11-meeting-242/slide-021-v001.webp"
+        },
+        {
+          "slideNumber": 22,
+          "path": "slide/slide-image/pert11-meeting-242/slide-022-v001.webp"
+        },
+        {
+          "slideNumber": 23,
+          "path": "slide/slide-image/pert11-meeting-242/slide-023-v001.webp"
+        },
+        {
+          "slideNumber": 24,
+          "path": "slide/slide-image/pert11-meeting-242/slide-024-v001.webp"
+        },
+        {
+          "slideNumber": 25,
+          "path": "slide/slide-image/pert11-meeting-242/slide-025-v001.webp"
+        },
+        {
+          "slideNumber": 26,
+          "path": "slide/slide-image/pert11-meeting-242/slide-026-v001.webp"
+        },
+        {
+          "slideNumber": 27,
+          "path": "slide/slide-image/pert11-meeting-242/slide-027-v001.webp"
+        },
+        {
+          "slideNumber": 28,
+          "path": "slide/slide-image/pert11-meeting-242/slide-028-v001.webp"
+        },
+        {
+          "slideNumber": 29,
+          "path": "slide/slide-image/pert11-meeting-242/slide-029-v001.webp"
+        },
+        {
+          "slideNumber": 30,
+          "path": "slide/slide-image/pert11-meeting-242/slide-030-v001.webp"
+        },
+        {
+          "slideNumber": 31,
+          "path": "slide/slide-image/pert11-meeting-242/slide-031-v001.webp"
+        },
+        {
+          "slideNumber": 32,
+          "path": "slide/slide-image/pert11-meeting-242/slide-032-v001.webp"
+        },
+        {
+          "slideNumber": 33,
+          "path": "slide/slide-image/pert11-meeting-242/slide-033-v001.webp"
+        },
+        {
+          "slideNumber": 34,
+          "path": "slide/slide-image/pert11-meeting-242/slide-034-v001.webp"
+        },
+        {
+          "slideNumber": 35,
+          "path": "slide/slide-image/pert11-meeting-242/slide-035-v001.webp"
+        }
+      ],
+      "slideCount": 35,
+      "imageCount": 35,
+      "narrationCount": 0
+    },
+    {
+      "id": "pert11-meeting-12",
+      "number": 11,
+      "title": "Dynamic Difficulty Adjustment",
+      "subtitle": "",
+      "slidePath": "slide/pert11-meeting-12.md",
+      "narrationPath": "slide/narasi/pert11-meeting-12.md",
       "practicumPaths": [
-        "praktikum/modul-praktikum-11-dynamic-difficulty-adjustment-dda-di-unity-6.md"
+        "praktikum/pert11-meeting-12/modul-praktikum-11-dynamic-difficulty-adjustment-dda-di-unity-6.md"
       ],
       "images": [
         {
           "slideNumber": 1,
-          "path": "slide/slide-image/pert11/slide-001-v001.webp"
+          "path": "slide/slide-image/pert11-meeting-12/slide-001-v001.webp"
         },
         {
           "slideNumber": 2,
-          "path": "slide/slide-image/pert11/slide-002-v001.webp"
+          "path": "slide/slide-image/pert11-meeting-12/slide-002-v001.webp"
         },
         {
           "slideNumber": 3,
-          "path": "slide/slide-image/pert11/slide-003-v001.webp"
+          "path": "slide/slide-image/pert11-meeting-12/slide-003-v001.webp"
         },
         {
           "slideNumber": 4,
-          "path": "slide/slide-image/pert11/slide-004-v001.webp"
+          "path": "slide/slide-image/pert11-meeting-12/slide-004-v001.webp"
         },
         {
           "slideNumber": 5,
-          "path": "slide/slide-image/pert11/slide-005-v001.webp"
+          "path": "slide/slide-image/pert11-meeting-12/slide-005-v001.webp"
         },
         {
           "slideNumber": 6,
-          "path": "slide/slide-image/pert11/slide-006-v001.webp"
+          "path": "slide/slide-image/pert11-meeting-12/slide-006-v001.webp"
         },
         {
           "slideNumber": 7,
-          "path": "slide/slide-image/pert11/slide-007-v001.webp"
+          "path": "slide/slide-image/pert11-meeting-12/slide-007-v001.webp"
         },
         {
           "slideNumber": 8,
-          "path": "slide/slide-image/pert11/slide-008-v001.webp"
+          "path": "slide/slide-image/pert11-meeting-12/slide-008-v001.webp"
         },
         {
           "slideNumber": 9,
-          "path": "slide/slide-image/pert11/slide-009-v001.webp"
+          "path": "slide/slide-image/pert11-meeting-12/slide-009-v001.webp"
         },
         {
           "slideNumber": 10,
-          "path": "slide/slide-image/pert11/slide-010-v001.webp"
+          "path": "slide/slide-image/pert11-meeting-12/slide-010-v001.webp"
         },
         {
           "slideNumber": 11,
-          "path": "slide/slide-image/pert11/slide-011-v001.webp"
+          "path": "slide/slide-image/pert11-meeting-12/slide-011-v001.webp"
         },
         {
           "slideNumber": 12,
-          "path": "slide/slide-image/pert11/slide-012-v001.webp"
+          "path": "slide/slide-image/pert11-meeting-12/slide-012-v001.webp"
         },
         {
           "slideNumber": 13,
-          "path": "slide/slide-image/pert11/slide-013-v001.webp"
+          "path": "slide/slide-image/pert11-meeting-12/slide-013-v001.webp"
         },
         {
           "slideNumber": 14,
-          "path": "slide/slide-image/pert11/slide-014-v001.webp"
+          "path": "slide/slide-image/pert11-meeting-12/slide-014-v001.webp"
         },
         {
           "slideNumber": 15,
-          "path": "slide/slide-image/pert11/slide-015-v001.webp"
+          "path": "slide/slide-image/pert11-meeting-12/slide-015-v001.webp"
         },
         {
           "slideNumber": 16,
-          "path": "slide/slide-image/pert11/slide-016-v001.webp"
+          "path": "slide/slide-image/pert11-meeting-12/slide-016-v001.webp"
         },
         {
           "slideNumber": 17,
-          "path": "slide/slide-image/pert11/slide-017-v001.webp"
+          "path": "slide/slide-image/pert11-meeting-12/slide-017-v001.webp"
         },
         {
           "slideNumber": 18,
-          "path": "slide/slide-image/pert11/slide-018-v001.webp"
+          "path": "slide/slide-image/pert11-meeting-12/slide-018-v001.webp"
         },
         {
           "slideNumber": 19,
-          "path": "slide/slide-image/pert11/slide-019-v001.webp"
+          "path": "slide/slide-image/pert11-meeting-12/slide-019-v001.webp"
         },
         {
           "slideNumber": 20,
-          "path": "slide/slide-image/pert11/slide-020-v001.webp"
+          "path": "slide/slide-image/pert11-meeting-12/slide-020-v001.webp"
         },
         {
           "slideNumber": 21,
-          "path": "slide/slide-image/pert11/slide-021-v001.webp"
+          "path": "slide/slide-image/pert11-meeting-12/slide-021-v001.webp"
         },
         {
           "slideNumber": 22,
-          "path": "slide/slide-image/pert11/slide-022-v001.webp"
+          "path": "slide/slide-image/pert11-meeting-12/slide-022-v001.webp"
         },
         {
           "slideNumber": 23,
-          "path": "slide/slide-image/pert11/slide-023-v001.webp"
+          "path": "slide/slide-image/pert11-meeting-12/slide-023-v001.webp"
         },
         {
           "slideNumber": 25,
-          "path": "slide/slide-image/pert11/slide-025-v001.webp"
+          "path": "slide/slide-image/pert11-meeting-12/slide-025-v001.webp"
         },
         {
           "slideNumber": 26,
-          "path": "slide/slide-image/pert11/slide-026-v001.webp"
+          "path": "slide/slide-image/pert11-meeting-12/slide-026-v001.webp"
         },
         {
           "slideNumber": 27,
-          "path": "slide/slide-image/pert11/slide-027-v001.webp"
+          "path": "slide/slide-image/pert11-meeting-12/slide-027-v001.webp"
         },
         {
           "slideNumber": 28,
-          "path": "slide/slide-image/pert11/slide-028-v001.webp"
+          "path": "slide/slide-image/pert11-meeting-12/slide-028-v001.webp"
         },
         {
           "slideNumber": 29,
-          "path": "slide/slide-image/pert11/slide-029-v001.webp"
+          "path": "slide/slide-image/pert11-meeting-12/slide-029-v001.webp"
         },
         {
           "slideNumber": 31,
-          "path": "slide/slide-image/pert11/slide-031-v001.webp"
+          "path": "slide/slide-image/pert11-meeting-12/slide-031-v001.webp"
         },
         {
           "slideNumber": 32,
-          "path": "slide/slide-image/pert11/slide-032-v001.webp"
+          "path": "slide/slide-image/pert11-meeting-12/slide-032-v001.webp"
         },
         {
           "slideNumber": 33,
-          "path": "slide/slide-image/pert11/slide-033-v001.webp"
+          "path": "slide/slide-image/pert11-meeting-12/slide-033-v001.webp"
         },
         {
           "slideNumber": 34,
-          "path": "slide/slide-image/pert11/slide-034-v001.webp"
+          "path": "slide/slide-image/pert11-meeting-12/slide-034-v001.webp"
         },
         {
           "slideNumber": 35,
-          "path": "slide/slide-image/pert11/slide-035-v001.webp"
+          "path": "slide/slide-image/pert11-meeting-12/slide-035-v001.webp"
         },
         {
           "slideNumber": 36,
-          "path": "slide/slide-image/pert11/slide-036-v001.webp"
+          "path": "slide/slide-image/pert11-meeting-12/slide-036-v001.webp"
         },
         {
           "slideNumber": 37,
-          "path": "slide/slide-image/pert11/slide-037-v001.webp"
+          "path": "slide/slide-image/pert11-meeting-12/slide-037-v001.webp"
         },
         {
           "slideNumber": 38,
-          "path": "slide/slide-image/pert11/slide-038-v001.webp"
+          "path": "slide/slide-image/pert11-meeting-12/slide-038-v001.webp"
         },
         {
           "slideNumber": 39,
-          "path": "slide/slide-image/pert11/slide-039-v001.webp"
+          "path": "slide/slide-image/pert11-meeting-12/slide-039-v001.webp"
         },
         {
           "slideNumber": 40,
-          "path": "slide/slide-image/pert11/slide-040-v001.webp"
+          "path": "slide/slide-image/pert11-meeting-12/slide-040-v001.webp"
         },
         {
           "slideNumber": 41,
-          "path": "slide/slide-image/pert11/slide-041-v001.webp"
+          "path": "slide/slide-image/pert11-meeting-12/slide-041-v001.webp"
         },
         {
           "slideNumber": 42,
-          "path": "slide/slide-image/pert11/slide-042-v001.webp"
+          "path": "slide/slide-image/pert11-meeting-12/slide-042-v001.webp"
         },
         {
           "slideNumber": 43,
-          "path": "slide/slide-image/pert11/slide-043-v001.webp"
+          "path": "slide/slide-image/pert11-meeting-12/slide-043-v001.webp"
         },
         {
           "slideNumber": 44,
-          "path": "slide/slide-image/pert11/slide-044-v001.webp"
+          "path": "slide/slide-image/pert11-meeting-12/slide-044-v001.webp"
         },
         {
           "slideNumber": 45,
-          "path": "slide/slide-image/pert11/slide-045-v001.webp"
+          "path": "slide/slide-image/pert11-meeting-12/slide-045-v001.webp"
         },
         {
           "slideNumber": 46,
-          "path": "slide/slide-image/pert11/slide-046-v001.webp"
+          "path": "slide/slide-image/pert11-meeting-12/slide-046-v001.webp"
         },
         {
           "slideNumber": 47,
-          "path": "slide/slide-image/pert11/slide-047-v001.webp"
+          "path": "slide/slide-image/pert11-meeting-12/slide-047-v001.webp"
         },
         {
           "slideNumber": 48,
-          "path": "slide/slide-image/pert11/slide-048-v001.webp"
+          "path": "slide/slide-image/pert11-meeting-12/slide-048-v001.webp"
         },
         {
           "slideNumber": 49,
-          "path": "slide/slide-image/pert11/slide-049-v001.webp"
+          "path": "slide/slide-image/pert11-meeting-12/slide-049-v001.webp"
         },
         {
           "slideNumber": 50,
-          "path": "slide/slide-image/pert11/slide-050-v001.webp"
+          "path": "slide/slide-image/pert11-meeting-12/slide-050-v001.webp"
         },
         {
           "slideNumber": 51,
-          "path": "slide/slide-image/pert11/slide-051-v001.webp"
+          "path": "slide/slide-image/pert11-meeting-12/slide-051-v001.webp"
         },
         {
           "slideNumber": 52,
-          "path": "slide/slide-image/pert11/slide-052-v001.webp"
+          "path": "slide/slide-image/pert11-meeting-12/slide-052-v001.webp"
         },
         {
           "slideNumber": 53,
-          "path": "slide/slide-image/pert11/slide-053-v001.webp"
+          "path": "slide/slide-image/pert11-meeting-12/slide-053-v001.webp"
         },
         {
           "slideNumber": 54,
-          "path": "slide/slide-image/pert11/slide-054-v001.webp"
+          "path": "slide/slide-image/pert11-meeting-12/slide-054-v001.webp"
         },
         {
           "slideNumber": 55,
-          "path": "slide/slide-image/pert11/slide-055-v001.webp"
+          "path": "slide/slide-image/pert11-meeting-12/slide-055-v001.webp"
         },
         {
           "slideNumber": 56,
-          "path": "slide/slide-image/pert11/slide-056-v001.webp"
+          "path": "slide/slide-image/pert11-meeting-12/slide-056-v001.webp"
         },
         {
           "slideNumber": 57,
-          "path": "slide/slide-image/pert11/slide-057-v001.webp"
+          "path": "slide/slide-image/pert11-meeting-12/slide-057-v001.webp"
         },
         {
           "slideNumber": 58,
-          "path": "slide/slide-image/pert11/slide-058-v001.webp"
+          "path": "slide/slide-image/pert11-meeting-12/slide-058-v001.webp"
         },
         {
           "slideNumber": 59,
-          "path": "slide/slide-image/pert11/slide-059-v001.webp"
+          "path": "slide/slide-image/pert11-meeting-12/slide-059-v001.webp"
         },
         {
           "slideNumber": 60,
-          "path": "slide/slide-image/pert11/slide-060-v001.webp"
+          "path": "slide/slide-image/pert11-meeting-12/slide-060-v001.webp"
         },
         {
           "slideNumber": 61,
-          "path": "slide/slide-image/pert11/slide-061-v001.webp"
+          "path": "slide/slide-image/pert11-meeting-12/slide-061-v001.webp"
         },
         {
           "slideNumber": 62,
-          "path": "slide/slide-image/pert11/slide-062-v001.webp"
+          "path": "slide/slide-image/pert11-meeting-12/slide-062-v001.webp"
         },
         {
           "slideNumber": 63,
-          "path": "slide/slide-image/pert11/slide-063-v001.webp"
+          "path": "slide/slide-image/pert11-meeting-12/slide-063-v001.webp"
         },
         {
           "slideNumber": 64,
-          "path": "slide/slide-image/pert11/slide-064-v001.webp"
+          "path": "slide/slide-image/pert11-meeting-12/slide-064-v001.webp"
         },
         {
           "slideNumber": 65,
-          "path": "slide/slide-image/pert11/slide-065-v001.webp"
+          "path": "slide/slide-image/pert11-meeting-12/slide-065-v001.webp"
         },
         {
           "slideNumber": 66,
-          "path": "slide/slide-image/pert11/slide-066-v001.webp"
+          "path": "slide/slide-image/pert11-meeting-12/slide-066-v001.webp"
         },
         {
           "slideNumber": 67,
-          "path": "slide/slide-image/pert11/slide-067-v001.webp"
+          "path": "slide/slide-image/pert11-meeting-12/slide-067-v001.webp"
         },
         {
           "slideNumber": 68,
-          "path": "slide/slide-image/pert11/slide-068-v001.webp"
+          "path": "slide/slide-image/pert11-meeting-12/slide-068-v001.webp"
         },
         {
           "slideNumber": 69,
-          "path": "slide/slide-image/pert11/slide-069-v001.webp"
+          "path": "slide/slide-image/pert11-meeting-12/slide-069-v001.webp"
         },
         {
           "slideNumber": 70,
-          "path": "slide/slide-image/pert11/slide-070-v001.webp"
+          "path": "slide/slide-image/pert11-meeting-12/slide-070-v001.webp"
         },
         {
           "slideNumber": 71,
-          "path": "slide/slide-image/pert11/slide-071-v001.webp"
+          "path": "slide/slide-image/pert11-meeting-12/slide-071-v001.webp"
         },
         {
           "slideNumber": 72,
-          "path": "slide/slide-image/pert11/slide-072-v001.webp"
+          "path": "slide/slide-image/pert11-meeting-12/slide-072-v001.webp"
         },
         {
           "slideNumber": 73,
-          "path": "slide/slide-image/pert11/slide-073-v001.webp"
+          "path": "slide/slide-image/pert11-meeting-12/slide-073-v001.webp"
         },
         {
           "slideNumber": 74,
-          "path": "slide/slide-image/pert11/slide-074-v001.webp"
+          "path": "slide/slide-image/pert11-meeting-12/slide-074-v001.webp"
         },
         {
           "slideNumber": 75,
-          "path": "slide/slide-image/pert11/slide-075-v001.webp"
+          "path": "slide/slide-image/pert11-meeting-12/slide-075-v001.webp"
         },
         {
           "slideNumber": 76,
-          "path": "slide/slide-image/pert11/slide-076-v001.webp"
+          "path": "slide/slide-image/pert11-meeting-12/slide-076-v001.webp"
         },
         {
           "slideNumber": 77,
-          "path": "slide/slide-image/pert11/slide-077-v001.webp"
+          "path": "slide/slide-image/pert11-meeting-12/slide-077-v001.webp"
         },
         {
           "slideNumber": 78,
-          "path": "slide/slide-image/pert11/slide-078-v001.webp"
+          "path": "slide/slide-image/pert11-meeting-12/slide-078-v001.webp"
         },
         {
           "slideNumber": 79,
-          "path": "slide/slide-image/pert11/slide-079-v001.webp"
+          "path": "slide/slide-image/pert11-meeting-12/slide-079-v001.webp"
         },
         {
           "slideNumber": 80,
-          "path": "slide/slide-image/pert11/slide-080-v001.webp"
+          "path": "slide/slide-image/pert11-meeting-12/slide-080-v001.webp"
         },
         {
           "slideNumber": 81,
-          "path": "slide/slide-image/pert11/slide-081-v001.webp"
+          "path": "slide/slide-image/pert11-meeting-12/slide-081-v001.webp"
         },
         {
           "slideNumber": 82,
-          "path": "slide/slide-image/pert11/slide-082-v001.webp"
+          "path": "slide/slide-image/pert11-meeting-12/slide-082-v001.webp"
         },
         {
           "slideNumber": 83,
-          "path": "slide/slide-image/pert11/slide-083-v001.webp"
+          "path": "slide/slide-image/pert11-meeting-12/slide-083-v001.webp"
         },
         {
           "slideNumber": 84,
-          "path": "slide/slide-image/pert11/slide-084-v001.webp"
+          "path": "slide/slide-image/pert11-meeting-12/slide-084-v001.webp"
         }
       ],
       "slideCount": 84,
